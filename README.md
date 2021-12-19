@@ -3,6 +3,8 @@ Modification of the Unlicense. Modified to add one condition to the license.
 
 Sometimes called *Unlicense - Attribution Needed*.
 
+This license is very similar to the MIT License.
+
 ## Text
 ```
 Anyone is free to copy, modify, publish, use, compile, sell, or

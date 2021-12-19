@@ -13,7 +13,8 @@ binary, for any purpose, commercial or non-commercial, and by any
 means, as long as the following conditions are met:
 
   1. Attribution must be given when publishing or
-     selling the software.
+     selling the software. Attribution details:
+     (COPYRIGHT HOLDER) ©️ (YYYY), licensed under Unlicense-BY
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
@@ -24,4 +25,4 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-(Everyone is allowed to copy and distribute the text, but changing it is not allowed.)
+(Everyone is allowed to copy and distribute the text, but changing it is not allowed, except for the attribution details part of the text.)
